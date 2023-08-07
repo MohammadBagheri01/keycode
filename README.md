@@ -1,5 +1,5 @@
 # keycode
-### Hello, in this mini project, you just need to press one of the keys on your keyboard to show you this information.
+#### Hi, in this mini project, you just need to press one of the keys on your keyboard to show you this information.
 ---
 *_ event-key*    
 *_ event-location*    
